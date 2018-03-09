@@ -1,0 +1,96 @@
+How are the filters applied ? (field, operator, value)
+
+What is formatter ?
+
+What is the client transaction log ?
+
+What is not a state of Workflow ? (unpublished)
+ 
+Is List a report ? (yes)
+
+How can data can be imported in the table ?  (csv, excel, xml)
+
+If an administrator has checked out a workflow, then... ?  (So that multiple changes can not updated on the same time)
+
+Default update set main changes nahi karne chahiye ?(best practices - 2 questions)
+Status should be Complete before moving from one instance to another
+
+Who is responsible for creating Configuration Item Relationships? (CI Class Manager)
+
+What is name of the view that shows the relationship b/w different CI ? (Business Service View)
+
+Which one of the following module can be used to view field settings for a table ? (Table And Column Module)
+
+Where does UI Policy works ? (Client Side/ Browser Side)
+
+Where is Text Search available ? (Live Feed and Knowledge Article, but not on Application Text Search And List)
+
+What is typically captured in Active Stream Form Action ? (Workflow Execution, Updates made by you and others) 
+
+What are the properties of Servicenow ? (Multi-tenant, load Balancer, application, customization)
+
+From the user menu, what action can user complete? (Impersonate User, Elevate Role, Logout Servicenow)
+
+Knowledge base search result can be sorted by which of the following? (Relevancy, Popularity, Number of Views)
+
+When does there is a pause in the SLA ? (When the condition specified is the pause condition in the SLA)
+
+What is common in the report outage, incident..... (Service Catalog Property)
+
+What can be captured in update set? (Table, Form, Schedule Job, Business Rule )
+
+What is business Rule ? (Piece of javascript code)
+
+What is true about Visual Task Board ? (Freeform, flexible and guided task board is wrong one)
+
+What is true about UI Policy? (It is used to apply conditions on the fields)
+
+What is the best way to make fields read-only, mandatory and visible? (UI Policy)
+
+Identify two core tables in servicenow ? 
+Options are :- task and sys_user (This is my answer)
+		cnm_location and sys_user
+		imp_notification and sc_request
+		sys_attachment and sys_eventregister
+
+What are the stages to load data? (load data, create transform map, run transform)
+
+What is the use of import set table? (It acts as a stage while loading data)
+
+What will happen if the task table is extended by a table?
+It will contain all the fields of the task table and new fields can als
+
+What is name of table which are not base system table ? (custom table, base table, core table, extended table)
+ => Custom table
+
+What will happen if the task table is extended by another table? (It will not contain the data of the task table)
+
+Is it right to make many changes in many update set? (False)
+
+What is correct about Sys_ID ? (It is a 32 bit charcter set which is unique for each and every record of the table)
+
+What is used to control the access on fields and rows? (Access Control List)
+
+What correct among the below mentioned options? (ACl should match both the row and fields in order to access it)
+
+Can coalesce be appied on multiple fields? (True)
+
+How will you glide through tables having reference fields? (dot walking)
+ 
+Which of this is not a state of workflow ? (Unpublished, published, checked out, (Unpublished was right)) 
+
+Select two option by which events can be triggered ? (Bussiness Rule, workflow and not through log context)
+
+What is the use of service catalog workflow?
+
+Select the correct option? (REQ(Request) > RITM(Requested ITEM) > TASK)
+
+How are ACL Applied? (First on the table  and then the parent table and the wildcard) 
+
+__________ is used to create the application and module shortcut which are frequently used? (Bookmark) 
+
+What is Configuration management Database (CMDB) ? (Used to access both tangible and in-tangible items)
+
+
+
+ 
